@@ -16,3 +16,6 @@ oficiales, agregaré aquí los enlaces de descarga.
 
 Me gusta convertir ideas sencillas en mejoras útiles para Minecraft. Si pruebas
 alguno de mis mods, tus comentarios y sugerencias son bienvenidos.
+
+## Contacto
+Para consultas sobre mis mods: vanlishedz.contacto@gmail.com
